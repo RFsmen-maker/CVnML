@@ -24,3 +24,9 @@ Consuming resources
 ## Week 3 22.07.11 -- 22.07.17
 * Image Processing Week 5
 * LHY Deep Learning p5, p6, p7
+
+## Week 4 22.07.18 -- 22.07.24
+* Image Processing Week 6
+* LHY Deep Learning p8, p9
+
+
