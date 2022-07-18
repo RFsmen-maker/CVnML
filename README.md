@@ -8,9 +8,8 @@ Domestic web: [CODING](https://rfsmen.coding.net/p/cvnml "CODING: https://rfsmen
 Consuming resources
 -----------------------------------------------
 
-- opencv official tutorial
-- Hongyi Li's lectures
-- the *'Fish Book'*
+- Lectures: Image Processing Lectures of Gonzalez, Hongyi Li's Deep Learning
+- Books: *'Fish Book', 'Dive Into Deep Learning'*
 - Tools: opencv-python, numpy, matplotlib, pytorch
 -----------------------------------------------
 
