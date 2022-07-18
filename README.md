@@ -1,6 +1,8 @@
 Computer Vision & Machine Learning Study Record
 ================================
 
+Domestic web: [CODING](https://rfsmen.coding.net/p/cvnml "CODING: https://rfsmen.coding.net/p/cvnml")
+
 -----------------------------------------------
 
 Consuming resources
